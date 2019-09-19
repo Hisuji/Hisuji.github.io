@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,31 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: Today I Learned
+    children:
+      - title: "JAVA"
+        url: /posts/java/
+      - title: "Spring"
+        url: /posts/spring/
+      - title: "JavaScript"
+        url: /posts/javascript/
+      - title: "ReactJS"
+        url: /posts/reactjs/
+      - title: "SQL"
+        url: /posts/sql/      
+      - title: "etc"
+        url: /posts/etc/
+#  - title: Customization
+#   children:
+#     - title: "Configuration"
+#       url: /docs/configuration/
+#     - title: "Navigation"
+#       url: /docs/navigation/
+#     - title: "UI Text"
+#       url: /docs/ui-text/
+#     - title: "Authors"
+#       url: /docs/authors/
+#     - title: "Layouts"
+#       url: /docs/layouts/
