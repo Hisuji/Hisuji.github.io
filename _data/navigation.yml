@@ -24,8 +24,8 @@ docs:
         url: /posts/reactjs/
       - title: "SQL"
         url: /posts/sql/      
-      - title: "etc"
-        url: /posts/etc/
+      - title: "Design Pattern"
+        url: /posts/designpattern/
 #  - title: Customization
 #   children:
 #     - title: "Configuration"
