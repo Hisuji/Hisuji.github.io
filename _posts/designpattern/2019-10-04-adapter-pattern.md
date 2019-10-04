@@ -44,4 +44,4 @@ permalink: /posts/designpattern/
 
 [실습 소스코드]
 
-[Github](https://github.com/Hisuji/DesignPattern/tree/master/src/strategy)
+[Github](https://github.com/Hisuji/DesignPattern/tree/master/src/adapter)
